@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "interceptorApp"
+    }
+  },
+  "defaultProject": "interceptorApp",
+  "cli": {
+    "analytics": false
+  }
 }
